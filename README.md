@@ -1,1 +1,3 @@
 # Computer-Vision-Project
+
+In this project, I explored how to do basic computer vision tasks using libraries like computer vision2, Imutils, Numpy. This project includes 3 tasks. The first task is to Run a people detector on the given input video and Write on the output video the number of people detected at each frame in the scene. The second task is to choose one person in the scene (either player or referee) and try to track him and plot the trajectory on the output video. The final task is to Detect how many times the ball possession changes (e.g. all 10 players go from one half of the court to the other one).
